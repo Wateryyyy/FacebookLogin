@@ -23,7 +23,7 @@ This repository contains the source code for a Facebook-inspired landing page bu
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/facebook-landing-page.git
+   git clone https://github.com/Wateryyyy/facebook-landing-page.git
    cd facebook-landing-page
    ```
 
