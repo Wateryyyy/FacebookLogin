@@ -15,9 +15,34 @@ This repository contains the source code for a Facebook-inspired landing page bu
 - **React**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 
+## Contributing
+
+- Contributions are welcome! If you have any ideas or suggestions to improve the project, feel free to open an issue or submit a pull request..
+
 ## Installation
 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/facebook-landing-page.git
    cd facebook-landing-page
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the Development Server**
+   ```bash
+   npm run dev
+   ```
+   **Web View**
+   ![image](https://github.com/user-attachments/assets/7012db08-f28e-43e8-8503-32be5ca1fdc4)
+
+   **Mobile View** (iPhone 14 Pro Max)
+   
+   ![image](https://github.com/user-attachments/assets/c48d6ec6-6d43-4669-8dc0-847e64ebfa86)
+
+
+
+   
